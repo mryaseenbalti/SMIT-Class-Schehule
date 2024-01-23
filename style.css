@@ -1,0 +1,41 @@
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+h3{
+    text-align: center;
+    text-decoration: underline;
+}
+
+
+th{
+    text-align: center;
+    background-color: blueviolet;
+}
+.namaz{
+    background-color: rgb(108, 168, 192);
+}
+.purple{
+    background-color: purple;
+}
+.skin{
+    background-color: rgb(250, 204, 119);
+}
+.green{
+    background-color: rgb(23, 214, 23);
+}
+.drakgreen{
+    background-color: rgb(0, 139, 81);
+}
+.lightgreen{
+    background-color: rgb(36, 155, 115);
+}
+.yellow{
+    background-color: yellow;
+}
+.pink{
+    background-color: rgb(255, 0, 140);
+}
+td{
+    text-align: center;
+}
